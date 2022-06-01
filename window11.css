@@ -1,0 +1,12 @@
+*{margin:0;}
+.bg1{background-color: tomato;}
+.bg2{background-color: blue;}
+.bg3{background-color: darkorange;}
+.bg4{background-color: deeppink;}
+.fl{float:left;}
+.fr{float:right;}
+.new{float:left; margin-left:1%;}
+.wrapper{height:80vh;margin: 10vh 10%;}
+.col-4{height:80vh;width:23.50%; }
+.col{height:19.25vh; margin-top: 1%;}
+.amit{height:19.25vh; width:49%}
